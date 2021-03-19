@@ -1,2 +1,2 @@
 # strive
-t
+Test to resolve conflicts
